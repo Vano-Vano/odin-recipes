@@ -1,2 +1,3 @@
 # odin-recipes
-First odin project
+First project for The odin project curriculum.
+Will be showcasing all html knowledge acquried so far
